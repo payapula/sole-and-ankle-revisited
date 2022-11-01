@@ -35,7 +35,7 @@ const Header = () => {
         </DesktopNav>
         <MobileActions>
           <ShoppingBagButton>
-            `` <Icon id="shopping-bag" />
+            <Icon id="shopping-bag" />
             <VisuallyHidden>Shopping Bag</VisuallyHidden>
           </ShoppingBagButton>
           <UnstyledButton>
